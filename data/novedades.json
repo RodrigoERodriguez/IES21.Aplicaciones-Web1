@@ -1,0 +1,31 @@
+{
+    "curso":[
+    {
+        "nombre": "C#",
+        "videos": [
+            { "titulo": "Curso C#", "lenguaje": "Espanol", "autor": "PildorasInformaticas", "duracion": "16:39:13", "miniatura": "../assets/miniatures/csharp/miniature_csharp-1.jpg", "link": "https://www.youtube.com/watch?v=6EBNIgkrU74&list=PLU8oAlHdN5BmpIQGDSHo5e1r4ZYWQ8m4B&ab_channel=pildorasinformaticas"},
+            { "titulo": "Curso Completo de C# para Principiantes (2021)", "autor": "ATL Academy", "lenguaje": "Espanol", "duracion": "06:29:54", "miniatura": "../assets/miniatures/csharp/miniature_csharp-2.jpg", "link": "https://www.youtube.com/watch?v=TqiysLEBZo4&t=8s&ab_channel=ATLAcademy%28byLucasMoy%29"},
+            { "titulo": "C# Desde Cero: Primeros Pasos", "autor": "MoureDev", "lenguaje": "Espanol", "duracion": "01:21:39", "miniatura": "../assets/miniatures/csharp/miniature_csharp-3.jpg", "link": "https://www.youtube.com/watch?v=L-f8u0hwi4Y&ab_channel=MoureDevbyBraisMoure"},
+            { "titulo": "Visual C Sharp C# Nivel Básico Curso Completo", "lenguaje": "Espanol", "autor": "DeVito", "duracion": "05:08:09", "miniatura": "../assets/miniatures/csharp/miniature_csharp-4.jpg", "link": "https://www.youtube.com/watch?v=4ktdC10JCrw&ab_channel=DeVito"}
+        ]
+    },
+    {
+        "nombre": "PHYTON",
+        "videos": [
+            { "titulo": "Curso de PYTHON desde CERO (Completo)", "lenguaje": "Espanol", "autor": "Soy Dalto", "duracion": "08:06:29", "miniatura": "../assets/miniatures/python/miniature_python-1.jpg", "link": "https://www.youtube.com/watch?v=nKPbfIU442g&ab_channel=SoyDalto"},
+            { "titulo": "Curso de PYTHON desde CERO para PRINCIPIANTES", "lenguaje": "Espanol", "autor": "MoureDev", "duracion": "10:07:34", "miniatura": "../assets/miniatures/python/miniature_python-2.jpg", "link": "https://www.youtube.com/watch?v=Kp4Mvapo5kc&ab_channel=MoureDevbyBraisMoure"},
+            { "titulo": "Aprende Python ahora! curso completo e intensivo desde cero", "lenguaje": "Espanol", "autor": "HolaMundo", "duracion": "05:05:49", "miniatura": "../assets/miniatures/python/miniature_python-3.jpg", "link": "https://www.youtube.com/watch?v=tQZy0U8s9LY&ab_channel=HolaMundo"},
+            { "titulo": "Aprende Python - Curso de Python desde Cero", "lenguaje": "Espanol", "autor": "FreeCodeCamp", "duracion": "04:36:42", "miniatura": "../assets/miniatures/python/miniature_python-4.jpg", "link": "https://www.youtube.com/watch?v=DLikpfc64cA&ab_channel=freeCodeCampEspa%C3%B1ol"}
+        ]
+    },
+    {
+        "nombre": "PHP",
+        "videos": [
+            { "titulo": "CURSO de php desde cero", "lenguaje": "Espanol", "autor": "DevEloteca", "duracion": "07:29:16", "miniatura": "../assets/miniatures/php/miniature_php-1.jpg", "link": "https://www.youtube.com/watch?v=nCB1gEkRZ1g&ab_channel=Develoteca-OscarJ.UhP%C3%A9rez"},
+            { "titulo": "PHP Desde Cero: Primeros Pasos", "lenguaje": "Espanol", "autor": "MoureDev", "duracion": "01:12:07", "miniatura": "../assets/miniatures/php/miniature_php-2.jpg", "link": "https://www.youtube.com/watch?v=nPCJAx5c1uE&ab_channel=MoureDevbyBraisMoure"},
+            { "titulo": "10 PROYECTOS COMPLETOS CON PHP", "lenguaje": "Espanol", "autor": "VidaMRR", "duracion": "07:47:12", "miniatura": "../assets/miniatures/php/miniature_php-3.jpg", "link": "https://www.youtube.com/watch?v=w8CZFQZV_8Y&ab_channel=VidaMRR-Programacionweb"},
+            { "titulo": "CURSO de PHP desde cero COMPLETO", "lenguaje": "Espanol", "autor": "DirectoAlGrano", "duracion": "02:18:58", "miniatura": "../assets/miniatures/php/miniature_php-4.jpg", "link": "https://www.youtube.com/watch?v=8UiSEskuOfE&ab_channel=DirectoAlGrano"}
+        ]
+    }
+    ]
+}
